@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VUT WiFi</string>
+    <string name="username">Uživatelské jméno</string>
+    <string name="password">Heslo</string>
+    <string name="login_success">Úspěšně příhlášeno do sítě</string>
+
+    <string name="check_login">Zkontrolujte přihlašovací údaje.</string>
+    <string name="unable_to_connect">Přihlášení se nezdařilo.</string>
+</resources>
