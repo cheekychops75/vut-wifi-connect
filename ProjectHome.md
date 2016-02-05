@@ -1,0 +1,1 @@
+Už Vás nebaví neustále vyplňovat přihlašovací údaje při připojení do wi-fi VUTBRNO? Tato aplikace Vás automaticky příhlásí hned po připojení do sítě a nemusíte se o nic starat!
